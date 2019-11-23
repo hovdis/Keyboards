@@ -1,6 +1,6 @@
 # Ergodox EZ
 
-Coming....
+Coming...
 
 ![Main layer](main_layer.PNG)
 
