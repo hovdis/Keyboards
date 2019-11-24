@@ -1,6 +1,6 @@
 # Ergodox EZ
 
-Coming...
+Coming... Will update when I have the time
 
 ![Main layer](main_layer.PNG)
 
