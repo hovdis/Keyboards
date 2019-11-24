@@ -13,7 +13,11 @@ When I boght the keyboard, they initially had cherry MX clear switches in it, bu
 More about this keyboard can be found [Here](ErgodoxEZ)
 
 
-### Iris rev 4
+### Iris Rev 4
 [tmp here](IrisRev4)
+The keyboard I use at home is my newly made Iris Rev 4. 
+Everything but keycaps and switches are from Keeb.io.
+The keyboard has steel plates with an acryllic translusent middle-layer. 
+The switches are Holy pandas, while the keycaps are just an assortment of different sets right now, since I am trying to learn the workman layout, and want legends for that.
 
 # Projects
