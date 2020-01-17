@@ -1,3 +1,6 @@
+> Note:
+> This repo is not finished yet. Will fix up asap
+
 # About
 I am really into keybeards, especially switches and building keyboards from scratch.
 
