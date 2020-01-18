@@ -43,7 +43,7 @@ The PCBs were sent for manufacturing custom, the cases are laser cut by us, and 
 
 Lily58 have the option to add OLED screens above the microcontroller, and since this is so cheap, of course I'll try to add that!
 
-All parts are ordered except m2 screws and m2 standoffs.
+All parts are ordered except m2 screws and m2 standoffs. The build log will be posted [here](lily58)
 
 # Projects
 
