@@ -28,10 +28,10 @@ It has support for up to two rotary encoders, which I wanted.
 
 1. Prepare components
 2. Solder components 
-  1. Solder resistores (for LEDS, optional)
-  2. Solder MOSFET (for LEDs, optional)
-  3. Solder puch button
-  4. Solder Microcontroller header pins
+   1. Solder resistores (for LEDS, optional)
+   2. Solder MOSFET (for LEDs, optional)
+   3. Solder puch button
+   4. Solder Microcontroller header pins
 3. Solder rotary encoders (optional)
 4. Solder switches
 5. Solder LEDs (optional)
@@ -39,3 +39,8 @@ It has support for up to two rotary encoders, which I wanted.
 7. Solder Pro Micro
 8. Solder RGB underglow LEDs or strip (optional)
 9. Assemble case
+
+# In-depth guide (with pictures from keeb.io)
+
+> Note:
+> Coming soon
