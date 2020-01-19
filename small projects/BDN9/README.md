@@ -40,7 +40,22 @@ It has support for up to two rotary encoders, which I wanted.
 8. Solder RGB underglow LEDs or strip (optional)
 9. Assemble case
 
-# In-depth guide (with pictures from keeb.io)
+## In-depth guide (with pictures from keeb.io)
 
 > Note:
 > Coming soon
+
+Unfortunately, I soldered on the Elite-C too far from the pcb, so the bottom plate do not have space. Therefore the build is not as good as I hoped. This is a pain to fix, since I need to desolder all pins on the Elite-C, and that takes a lot of time. Since it still functions perfectly, and it does not look that bad overall, I think i'm going to spare myself the hassle and just keep it as it is.
+
+# Pictures
+
+> PSA:
+> Sorry for the really merry desk and a lot of dust on the keyboard itself.
+
+![Alt text](../../Pictures/BDN9_top_view.jpg?raw=true "BDN9 top view")
+
+![Alt text](../../Pictures/BDN9_underglow.jpg?raw=true "BDN9 with underglow lights")
+
+![Alt text](../../Pictures/BDN9_knobs.jpg?raw=true "BDN9 back view with rotary encoders")
+
+![Alt text](../../Pictures/BDN9_warped_plate.jpg?raw=true "BDN9 bottom-view. You can clearly see the warped plates and pushed up switches")
