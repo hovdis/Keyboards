@@ -52,10 +52,10 @@ Unfortunately, I soldered on the Elite-C too far from the pcb, so the bottom pla
 > PSA:
 > Sorry for the really merry desk and a lot of dust on the keyboard itself.
 
-![Alt text](../../Pictures/BDN9_top_view.jpg?raw=true "BDN9 top view")
+![](../../Pictures/BDN9_top_view.jpg?raw=true "BDN9 top view")
 
-![Alt text](../../Pictures/BDN9_underglow.jpg?raw=true "BDN9 with underglow lights")
+![](../../Pictures/BDN9_underglow.jpg?raw=true "BDN9 with underglow lights")
 
-![Alt text](../../Pictures/BDN9_knobs.jpg?raw=true "BDN9 back view with rotary encoders")
+![](../../Pictures/BDN9_knobs.jpg?raw=true "BDN9 back view with rotary encoders")
 
-![Alt text](../../Pictures/BDN9_warped_plate.jpg?raw=true "BDN9 bottom-view. You can clearly see the warped plates and pushed up switches")
+![](../../Pictures/BDN9_warped_plate.jpg?raw=true "BDN9 bottom-view. You can clearly see the warped plates and pushed up switches")

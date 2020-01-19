@@ -22,13 +22,13 @@ Optionally, you can add per-switch leds, but since I don't use transparent keyca
 > PSA:
 > Sorry for the really merry desk and a lot of dust on the keyboard itself.
 
-![Alt text](../Pictures/iris_finished_build_no_lights.jpg?raw=true "Iris rev 4 no lights")
+![](../Pictures/iris_finished_build_no_lights.jpg?raw=true "Iris rev 4 no lights")
 
-![Alt text](../Pictures/iris_finished_build_lights.jpg?raw=true "Iris rev 4 with lights")
+![](../Pictures/iris_finished_build_lights.jpg?raw=true "Iris rev 4 with lights")
 
-![Alt text](../Pictures/iris_clear_caps.jpg?raw=true "Iris rev 4 blank keycaps")
+![](../Pictures/iris_clear_caps.jpg?raw=true "Iris rev 4 blank keycaps")
 
-![Alt text](../Pictures/iris_top_and_bottom.jpg?raw=true "The top and bottom of the keyboard")
+![](../Pictures/iris_top_and_bottom.jpg?raw=true "The top and bottom of the keyboard")
 
-![Alt text](../Pictures/iris_sideview.jpg?raw=true "Iris rev 4 side view")
+![](../Pictures/iris_sideview.jpg?raw=true "Iris rev 4 side view")
 
