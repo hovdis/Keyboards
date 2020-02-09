@@ -24,4 +24,6 @@ This project is one of the first more difficult builds I will do. It requires a 
 | M2 standoff | 10 | 8mm |
 | M2 standoff | 4 | 12mm |
 
+## Picture of corne
+
 ![](../Pictures/corne_ass_thats_needed.jpg "All that is needed to build a corne keyboard")
