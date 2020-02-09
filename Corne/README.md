@@ -26,4 +26,4 @@ This project is one of the first more difficult builds I will do. It requires a 
 
 ## Picture of corne
 
-![](../Pictures/corne_ass_thats_needed.jpg "All that is needed to build a corne keyboard")
+![](../Pictures/corne_all_thats_needed.jpg "All that is needed to build a corne keyboard")
