@@ -7,6 +7,7 @@ This project is one of the first more difficult builds I will do. It requires a 
 
 ## Parts needed
 | Part name | Quantity | Remarks |
+|--------|---------|-----------|
 | Corne PCB | 2 |  |
 | Corne top-plate | 2 | I laser cut this from acrylic |
 | Corne bottom-plate | 2 | I laser cut this from acrylic |
@@ -23,4 +24,4 @@ This project is one of the first more difficult builds I will do. It requires a 
 | M2 standoff | 10 | 8mm |
 | M2 standoff | 4 | 12mm |
 
-![](../Pictures/xorne_ass_thats_needed.jpg "All that is needed to build a corne keyboard")
+![](../Pictures/corne_ass_thats_needed.jpg "All that is needed to build a corne keyboard")
